@@ -37,10 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://github.com/ttsoares/Dialogs)
+- Live Site URL: [Add live site URL here](https://interactive-comments-drab.vercel.app/)
 
 ### Built with
 
@@ -52,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-Started the process os building the full CRUD system with Prisma and PostgreSQL
+Started the process of building the full CRUD system with Prisma and PostgreSQL
 
 ```js
 model User {
